@@ -1,0 +1,6 @@
+# ignore files
+__pycache__
+.ipynb_checkpoints
+*.npy
+*.csv
+*.sav
